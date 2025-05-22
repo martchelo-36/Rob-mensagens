@@ -54,3 +54,191 @@ for contato in contatos:
 
 print("Mensagens enviadas com sucesso!")
 navegador.quit()
+
+
+
+
+
+
+
+
+
+
+# MODELOS DE MENSAGENS
+
+
+
+
+
+# MODELO DE MENSAGENS 
+
+# ------------------------------------------------------
+# ULTRASSOM 
+
+# Olá, tudo bem? Somos da Clínica Santos Medical Group - SMG. Gostaríamos de confirmar seu atendimento de -feira  //20
+# NOME: 
+
+# Exame: US ABDOME TOTAL
+# PREPARO: 6 HORAS DE JEJUM; TOMAR DE 60 A 80 GOTAS DE LUFTAL 1 HORA ANTES DO EXAME; BEBER DE 4/5 COPOS DE ÁGUA, ESTAR COM A BEXIGA CHEIA.
+
+# Exame: US APARELHO URINÁRIO / US PRÓSTATA / US PELVICO 
+# PREPARO: BEBER DE 4/5 COPOS DE ÁGUA, ESTAR COM A BEXIGA CHEIA.
+
+# Exame: US TIREÓIDE COM DOPPLER / US MAMAS (SE FEITO MAMOGRAFIA TRAZER, POR GENTILEZA) / US AXILAS / US TRANSVAGINAL / US ARTICULAR (QUADRIL, JOELHO, OMBRO, ETC) / US MÚSCULO ESQUELÉTICO / US PAREDE ABDOMINAL / US OBSTÉTRICO / US OBSTÉTRICO MORFOLÓGICO ( SOMENTE NO PARTICULAR 
+# PREPARO:  SEM PREPARO
+
+# Exame: US ABDOME SUPERIOR
+# PREPARO: 8 HORAS DE JEJUM
+
+# Exame: US PARTES MOLES
+# PREPARO: ALIMENTAÇÃO LEVE E HIDRATAÇÃO
+
+# Horário:
+
+# OBSERVAÇÕES: SE JÁ REALIZOU ESSE EXAME, POR GENTILEZA, TRAZER CONSIGO NO DIA DO EXAME; SE HOUVER MAIS EXAMES AGENDADOS NO DIA DA CONFIRMAÇÃO E NÃO ESTÃO ESCRITOS, POR GENTILEZA NOS INFORMAR.
+# Podemos confirmar? 
+# Endereço: Avenida Rei Alberto I, Nº 243 - Ponta da praia, Santos.
+
+# ------------------------------------------------------
+# DOPPLER 
+
+# Olá, tudo bem? Somos da Clínica Santos Medical Group - SMG. Gostaríamos de confirmar seu atendimento de -feira //2025
+# Exame: DOPPLER COLORIDO ARTERIAL DE MEMBROS INFERIORES
+# Exame: DOPPLER COLORIDO VENOSO DE MEMBROS INFERIORES
+# Exame: DOPPLER CARÓTIDAS E VERTEBRAIS
+# Exame: DOPPLER AORTA ILÍACA 
+# PREPARO: DIA ANTERIOR - DIETA LEVE E TOMAR DE 50 GOTAS DE LUFTAL DE 8 EM 8 H / DIA DO EXAME - COMER TORRADAS COM CHÁ DEPOIS JEJUM TOTAL, PODE TOMAR ÁGUA E CONTINUAR TOMANDO LUFTAL.
+# HORÁRIO: 
+# OBS: SE HOUVER MAIS EXAMES AGENDADOS E NÃO ESTÃO ESCRITOS NA MENSAGEM, POR GENTILEZA NOS INFORMAR.
+# Podemos confirmar? 
+# Endereço: Avenida Rei Alberto I, Nº 243 - Ponta da praia, Santos.
+
+# ------------------------------------------------------
+# ECOCARDIOGRAMA 
+
+# Olá, tudo bem? Somos da Clínica Santos Medical Group - SMG. Gostaríamos de confirmar seu atendimento de -feira //20
+# EXAME: ECOCARDIOGRAMA
+
+# PREPARO:  SEM PREPARO
+
+# OBS: SE HOUVER MAIS EXAMES AGENDADOS E NÃO ESTÃO ESCRITOS, POR GENTILEZA NOS INFORMAR.
+# Podemos confirmar? 
+# Endereço: Avenida Rei Alberto I, Nº 243 - Ponta da praia, Santos.
+# HORÁRIO: 
+# ------------------------------------------------------
+# TESTE ERGOMÉTRICO
+
+# Olá, tudo bem? Somos da Clínica Santos Medical Group - SMG. Gostaríamos de confirmar seu atendimento de -feira  //20
+
+# EXAME: TESTE ERGOMÉTRICO 
+
+# PREPARO:  ROUPA DE ACADEMIA; NÃO PASSAR NENHUM CREME HIDRATANTE NO CORPO; NÃO REALIZAR NENHUM ESFORÇO FÍSICO ANTES DO EXAME (HOMEM: DEPILAR PELO DO TÓRAX ; MULHER: PRENDER O CABELO)
+
+# OBS: SE HOUVER MAIS EXAMES AGENDADOS E NÃO ESTÃO ESCRITOS, POR GENTILEZA NOS INFORMAR.
+# Podemos confirmar? 
+# Endereço: Avenida Rei Alberto I, Nº 243 - Ponta da praia, Santos.
+# HORÁRIO: 
+# ------------------------------------------------------
+# MAPA 
+
+# Olá, tudo bem? Somos da Clínica Santos Medical Group - SMG. Gostaríamos de confirmar seu atendimento de -feira //20
+
+# EXAME: MAPA 24H
+
+# PREPARO:  SEM PREPARO
+
+
+# OBS: SE HOUVER MAIS EXAMES AGENDADOS E NÃO ESTÃO ESCRITOS, POR GENTILEZA NOS INFORMAR.
+# Podemos confirmar? 
+# Endereço: Avenida Rei Alberto I, Nº 243 - Ponta da praia, Santos.
+# HORÁRIO: 
+# ------------------------------------------------------
+# HOLTER 
+
+# Olá, tudo bem? Somos da Clínica Santos Medical Group - SMG. Gostaríamos de confirmar seu atendimento de -feira //20
+
+# EXAME: HOLTER 24H
+
+# PREPARO:  SEM PREPARO
+
+# OBS: SE HOUVER MAIS EXAMES AGENDADOS E NÃO ESTÃO ESCRITOS, POR GENTILEZA NOS INFORMAR.
+# Podemos confirmar? 
+# Endereço: Avenida Rei Alberto I, Nº 243 - Ponta da praia, Santos.
+# HORÁRIO: 
+# ------------------------------------------------------
+# ECG, MAMOGRAFIA E RX
+
+# Olá, tudo bem? Somos da Clínica Santos Medical Group - SMG.
+
+# Exame: ECG ou ELETROCARDIOGRAMA 
+# HORÁRIO: NÃO AGENDAMOS, O PACIENTE APENAS PRECISA DO PEDIDO MÉDICO, REALIZAMOS DE SEG - SEX, DAS 08:00 - 12:00 (MANHÃ) E DAS 14:00 - 17:00 (TARDE) 
+
+# Exame: RAIO-X / MAMOGRAFIA
+# HORÁRIO: NÃO AGENDAMOS, O PACIENTE APENAS PRECISA DO PEDIDO MÉDICO, REALIZAMOS DE SEG - SEX, DAS 08:00 - 12:00 (MANHÃ)
+
+# Endereço: Avenida Rei Alberto I, Nº 243 - Ponta da praia, Santos.
+
+# ------------------------------------------------------
+# CONFIRMAR CONSULTA
+# Olá, tudo bem? Somos da Clínica Santos Medical Group - SMG. Gostaríamos de confirmar seu atendimento de -feira  //20
+
+# CONSULTA: DR.(A) NOME (ESPECIALIDADE)
+
+# Podemos confirmar? 
+# Endereço: Avenida Rei Alberto I, Nº 243 - Ponta da praia, Santos.
+# HORÁRIO: 
+# ------------------------------------------------------
+# CANCELAR EXAME
+
+# Olá, tudo bem? Somos da Clínica Santos Medical Group - SMG. Estamos entrando em contato para avisar que estamos cancelando seu atendimento de exame de EXAME (SOMENTE. SE HOUVER OUTROS ATENDIMENTOS, NÃO SERÃO DESMARCADOS), pois (JUSTIFICATIVA) . Atendimento do dia //20, -feira. Para remarcá-los, peço que ligue no número 32690020. Grato!
+
+# ------------------------------------------------------
+# CANCELAR CONSULTA
+
+# Olá, tudo bem? Somos da Clínica Santos Medical Group - SMG. Estamos entrando em contato para avisar que estamos cancelando seu atendimento de consulta com o/a (Dr.(a) NOME DO MÉDICO)  (SOMENTE. SE HOUVER OUTROS ATENDIMENTOS, NÃO SERÃO DESMARCADOS), pois (JUSTIFICATIVA) . Atendimento do dia //20, -feira. Para remarcá-los, peço que ligue no número 32690020. Grato!
+
+# ------------------------------------------------------
+# REAGENDAR EXAME
+
+# Olá, tudo bem? Somos da clínica Santos Medical Group - SMG. Estamos entrando em contato para avisar que o seu exame EXAME do dia //20 reagendamos. Pois (JUSTIFICATIVA) . Se caso não possuir disponibilidade para a data reagendada nos contatar (32690020) ou se conseguir pedimos que confirme por este canal. Grato!
+# DATA REAGENDADA:
+# HORÁRIO:
+# EXAME:
+
+# ------------------------------------------------------
+# REAGENDAR CONSULTA
+
+# Olá, tudo bem? Somos da clínica Santos Medical Group - SMG. Estamos entrando em contato para avisar que o seu atendimento de consulta com (DR.(A). NOME DO MÉDICO) do dia //20 reagendamos. Pois (JUSTIFICATIVA) . Se caso não possuir disponibilidade para a data reagendada nos contatar (32690020) ou se conseguir pedimos que confirme por este canal. Grato!
+
+# DATA REAGENDADA:
+
+# HORÁRIO:
+
+# CONSULTA: (NOME DO MÉDICO) (ESPECIALIDADE)
+
+# ------------------------------------------------------
+# DISPONIBILIDADE EXAME
+
+# Olá, bom dia, somos a Santos Medical Group - SMG. Estamos entrando em contato para avisar que no dia //, -feira temos horários para o período (MANHÃ / TARDE)
+# Para o seguinte exame:
+
+# Exame: 
+
+# Se houver interesse em antecipar, por favor nos avise por este canal ou ligue 32690020
+# Endereço: Avenida Rei Alberto I, Nº 243 - Ponta da praia, Santos.
+
+# ------------------------------------------------------
+# DISPONIBILIDADE CONSULTA
+
+# Olá, bom dia, somos a Santos Medical Group - SMG. Estamos entrando em contato para avisar que no dia //, -feira temos horários para o período (MANHÃ / TARDE)
+# Para o seguinte consulta:
+
+# CONSULTA: (NOME DO MÉDICO) (ESPECIALIDADE)
+
+# Se houver interesse em antecipar, por favor nos avise por este canal ou ligue 32690020
+# Endereço: Avenida Rei Alberto I, Nº 243 - Ponta da praia, Santos.
+
+
+
+
+
